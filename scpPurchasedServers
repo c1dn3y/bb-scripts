@@ -1,0 +1,7 @@
+var servers = getPurchasedServers();
+
+for (var i = 0; i < servers.length; ++i) {
+var serv = servers[i];
+scp("early-hack.script", serv);
+exec("early-hack.script", serv, 8);
+}
