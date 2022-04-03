@@ -1,3 +1,7 @@
+
+// THIS IS NOT MY SCRIPT --- I copied it from the guide:
+// https://bitburner.readthedocs.io/en/latest/guidesandtips/gettingstartedguideforbeginnerprogrammers.html?highlight=purchase%20server
+//
 // Defines the "target server", which is the server
 // that we're going to hack. In this case, it's "joesguns"
 var target = "joesguns";
